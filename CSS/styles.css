@@ -38,7 +38,7 @@ padding: 0 0;
   font-size: 3.5rem;
   font-weight: bold;
 }
-.nav-item {
+.nav-item .dropdown-item{
   font-size: 2.2rem;
   padding: 0 18px;
 }
