@@ -33,7 +33,7 @@ padding: 0 0;
 }
 @media (min-width:720px) {
   .navbar {
- display:block;
+ display:table-cell;
     width:auto;
   }
 }
